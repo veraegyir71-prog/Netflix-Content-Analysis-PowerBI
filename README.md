@@ -8,13 +8,11 @@ Completed as part of the Auspify internship task (October 2026).
 ## 📊 Dashboard Preview
 
 **Page 1: Content Overview**
-![Content Overview](screenshots/05_dashboard_content_overview.png)
 
 **Page 2: Global Content Insights**
-![Global Content Insights](screenshots/06_dashboard_global_content_insights.png)
 
 **Page 3: Content Growth and Trend Analysis**
-![Content Growth and Trend Analysis](screenshots/08_dashboard_growth_trends.png)
+
 
 ## 🎯 Objectives
 - Analyse the composition of the Netflix catalogue (movies vs TV shows)
@@ -92,7 +90,7 @@ Release volume peaked in **2018 (1,144 titles)**. **70.6%** of titles were relea
 ```
 
 ## Data Source
-Netflix titles dataset (add link and licence here).
+Netflix titles dataset
 
 ## 🎯 Conclusion
 Overall, the analysis shows a Netflix catalogue that is movie-led, concentrated in a handful of countries, and heavily weighted towards recent releases. Growth in new additions peaked in 2019, while TV's share of new content is rising and market formats vary sharply by country.
