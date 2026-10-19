@@ -1,4 +1,4 @@
-# Netflix Content Overview & Global Insights Dashboard
+# Netflix Content Analysis
 
 ## Project Overview
 This project analyses **8,787 Netflix titles across 85 countries** to explore the relationship between content type, genre, country of origin, release year, year added to Netflix and audience ratings. The findings are presented in a 3-page interactive Power BI dashboard with written insights.
